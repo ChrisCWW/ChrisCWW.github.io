@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://chriscw.com
+Sitemap: https://chriscw.com/sitemap.xml
